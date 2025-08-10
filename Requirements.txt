@@ -1,2 +1,9 @@
 customtkinter==5.2.1
 packaging
+pystray==0.19.4
+pillow==10.0.0
+plyer==2.1.0
+sqlite3
+pyinstaller==5.13.0
+firebase-admin==6.2.0
+python-dotenv==1.0.0
